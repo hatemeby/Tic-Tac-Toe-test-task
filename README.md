@@ -5,7 +5,7 @@
 Welcome to Nikita's Pugach test repo.
 
 During the automation process, I encountered several issues related to incorrect app behavior.
-The related scenarios have been marked with comments, and one of them — "Authorized user can draw in Tic-Tac-Toe game (workflow)" — has been skipped.
+The related scenarios have been marked with comments, and one of them - "Authorized user can draw in Tic-Tac-Toe game (workflow)" — has been skipped.
 
 <!-- GETTING STARTED -->
 
@@ -19,7 +19,7 @@ The related scenarios have been marked with comments, and one of them — "Autho
 
 ## clone this repo to a local directory
 
-git clone
+git clone git@github.com:hatemeby/Tic-Tac-Toe-test-task.git
 
 ## install the node_modules
 
